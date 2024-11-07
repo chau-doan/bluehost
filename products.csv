@@ -1,0 +1,11 @@
+id,name,description,price,image
+1,Cybersecurity Services,"Protect your business from cyber threats with our comprehensive cybersecurity solutions",1200,images\Cybersecurity_Services.png
+2,Data Analytics and Visualization,"Unlock the potential of your data with advanced analytics and visualization, turning insights into actionable business decisions.",700,images\Data_Analytics_and_Visualization.png
+3,Machine Learning Solutions,"Automate and enhance decision-making with custom machine learning models tailored to your industry.",1500,images\machine_learning.jpg
+4,Network Infrastructure Setup,"Integrate blockchain for secure, decentralized data management solutions, perfect for finance, supply chain, and more.",2000,images\network.jpg
+5,Mobile App Development,"Create seamless mobile experiences for your customers with our custom app development services for Android and iOS.",1200,images\mobile.jpg
+6,Website Design and Development,"Build a professional, responsive website that represents your brand and engages your audience.",900,images\Website_Design_and_Development.jpg
+7,Virtual Reality Solutions","Enhance user engagement with immersive VR experiences, from training programs to product showcases.",2500,images\Virtual_Reality_Solutions.jpg
+8,Artificial Intelligence Consulting,"Explore the potential of AI to revolutionize your business, with expert guidance on AI strategy, development, and integration.",1300,images\Artificial_Intelligence_Consulting.jpg
+9,Technical Support Services,"Keep your operations running smoothly with our 24/7 technical support for troubleshooting and maintenance.",400/month,images\Technical_Support_Services.jpg
+10,Blockchain Solutions,"Integrate blockchain for secure, decentralized data management solutions, perfect for finance, supply chain, and more.",2000,images\Blockchain_Solutions.jpg
